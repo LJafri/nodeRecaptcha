@@ -3,4 +3,4 @@ Basic implementation of Google recaptcha using Node
 
 https://www.google.com/recaptcha/
 
-![Alt text](https://github.com/ljsfdcdev/nodeRecaptcha/screen1.png?raw=true)
+![Alt text](https://github.com/ljsfdcdev/nodeRecaptcha/blob/master/screen1.png)
